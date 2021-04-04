@@ -1,4 +1,4 @@
-# Convert SIM Calendar to Google Calendar
+# Convert and Import SIM Calendar to Google Calendar Guide
 
 ## Guide to export calendar
 
