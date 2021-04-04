@@ -38,7 +38,7 @@ fill up the blanks
 
 ### Step 7:
 
-Save as input.csv and use python script 
+Save as input.csv and use python script. (Generates output.csv)
 ```
 chmod +x SCtGC_convertor.py
 python3 SCtGC_convertor.py
